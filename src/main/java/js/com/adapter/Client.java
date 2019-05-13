@@ -1,7 +1,7 @@
 package js.com.adapter;
 
 /**
- * 适配器模式
+ * 适配器模式1
  * Created by Administrator on 2015/4/23.
  */
 public class Client {
